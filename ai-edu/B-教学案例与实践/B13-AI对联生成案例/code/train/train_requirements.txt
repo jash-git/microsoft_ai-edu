@@ -1,7 +1,7 @@
 absl-py==0.1.10
 bleach==1.5.0
 bz2file==0.98
-certifi==2018.10.15
+certifi==2022.12.7
 chardet==3.0.4
 cycler==0.10.0
 enum34==1.1.6
